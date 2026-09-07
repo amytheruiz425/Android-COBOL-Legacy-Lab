@@ -1,4 +1,4 @@
-# Android COBOL Telemetry
+# Android-COBOL-Legacy-Lab
 
 A small COBOL telemetry project built and tested entirely on an Android phone using Termux, GnuCOBOL, and Python.
 

@@ -13,3 +13,5 @@ batch_validator
 
 checkpoint_restart
 checkpoint.txt
+
+system_record.json

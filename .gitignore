@@ -10,3 +10,6 @@ fixed_record_reader
 reconciliation_report
 
 batch_validator
+
+checkpoint_restart
+checkpoint.txt

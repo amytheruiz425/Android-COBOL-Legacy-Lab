@@ -53,3 +53,14 @@ Expected interpretation:
 ## Purpose
 
 This project demonstrates how COBOL and modern technology can work together through a simple telemetry file. It was created entirely on an Android phone as a practical legacy-system programming experiment.
+## Legacy Lab Experiments
+
+1. Incident Counter
+2. Telemetry Producer, History, and Python Bridge
+3. Fixed-Width Record Reader
+4. Daily Reconciliation Report
+5. Batch Transaction Validator
+6. Checkpoint and Restart
+7. Fixed-Width Record to JSON Bridge
+
+Together, these experiments demonstrate how COBOL can run on Android, process traditional legacy records, preserve operational history, recover from interruptions, and exchange data with modern software.
